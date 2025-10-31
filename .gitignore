@@ -1,0 +1,9 @@
+*~
+*.tar
+*.tar.*
+.*.sw?
+brp-boot-efi-times
+efi-rpm-macros.spec
+macros.efi
+macros.efi-srpm
+usr/
